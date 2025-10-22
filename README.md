@@ -20,6 +20,6 @@ Enterで実行
 <img width="600" height="300" alt="Discord危険情報共有鯖 #S life_card (5)" src="https://github.com/user-attachments/assets/84228c11-7cbc-4d52-a0e4-ca7450b42aa8" />
 
 ## 注意
-> ![WARNING]
+> [!WARNING]
 > このスクリプトは非公式ツールです。Discord公式とは一切関係ありません
 > レスポンスの内容が一部変更されて使えなくなる可能性があります
