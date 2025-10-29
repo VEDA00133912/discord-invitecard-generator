@@ -1,0 +1,23 @@
+{
+  "name": "discord-invitecard-generator",
+  "version": "1.0.0",
+  "description": "Discord風画像を生成するAPIです",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "api",
+    "invite"
+  ],
+  "author": "りょう",
+  "license": "MIT",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.81",
+    "axios": "^1.13.1",
+    "express": "^5.1.0",
+    "twemoji": "^14.0.2"
+  }
+}
